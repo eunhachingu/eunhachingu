@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eunhachingu
 - 👀 I’m interested in developing websites.
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently working on my portfolio for a better criteria in a job posting.
 - 📫 How to reach me "espajunar@gmail.com" 
 
 <!---
